@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/cake/Desktop/QUICK-PREP/quick prep app/src/components/pictures",
+      "program": "/Users/cake/Desktop/QUICK-PREP/quick prep app/src/components/pictures/build/Debug/outDebug"
+    }
+  ]
+}
